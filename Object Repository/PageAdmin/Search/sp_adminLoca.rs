@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sp_adminLoca</name>
+   <tag></tag>
+   <elementGuidId>ba603ff5-78a3-473f-974f-885da0bb0cd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Admin']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>0e6efb95-cf6e-4af6-a8f1-705896d17a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1688457884816</value>
+      <webElementGuid>36c710bd-0cc6-4d73-8c30-7ff5c4029882</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

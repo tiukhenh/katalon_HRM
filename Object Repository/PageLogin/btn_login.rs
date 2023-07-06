@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_login</name>
+   <tag></tag>
+   <elementGuidId>3ef52a24-d092-4c6e-b09d-16dd104d0990</elementGuidId>
+   <imagePath>Screenshots/Targets/PageLogin_OrangeHRM/btn_login.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/PageLogin_OrangeHRM/btn_login.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type=&quot;submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>1c2e5575-0d1b-4227-92fe-13d3881aade2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1688456026230</value>
+      <webElementGuid>788f1757-26cd-43cd-ae8f-a235d391815f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

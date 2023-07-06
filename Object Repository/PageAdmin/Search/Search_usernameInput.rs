@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search_usernameInput</name>
+   <tag></tag>
+   <elementGuidId>86ee4991-754e-4b50-982d-28cdad630d2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app&quot;]//form[@class=&quot;oxd-form&quot;]//input[contains(@class,&quot;oxd-input&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>e0486b23-e800-406a-bb54-fdf4688ccc35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1688457930415</value>
+      <webElementGuid>ae5c888e-cc38-4e1b-97aa-449b0337ef4c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

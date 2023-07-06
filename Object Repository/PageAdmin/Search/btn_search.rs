@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_search</name>
+   <tag></tag>
+   <elementGuidId>855c8217-0010-4430-9eb6-1ea2799a86ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='app']//form[@class='oxd-form']//button[contains(@class,'orangehrm-left-space')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>02a87d88-8c1d-48d5-83ac-548779064369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1688458043336</value>
+      <webElementGuid>2322eb15-d236-4ff1-82d3-c99d380c67bf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

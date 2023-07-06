@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>viewDashboard</name>
+   <tag></tag>
+   <elementGuidId>ad264b4c-e4f2-41a4-8c37-91882bf08de2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='oxd-topbar-header-breadcrumb']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>df6ad277-f64b-4f70-adc0-25eeac30c5c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1688456146669</value>
+      <webElementGuid>313dfbaf-075e-4cee-9bdf-d0bdadda2631</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
