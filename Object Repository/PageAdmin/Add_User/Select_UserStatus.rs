@@ -7,13 +7,21 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+         <value>//*[(text() = '${userStatus}' or . = '${userStatus}')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[text()='Status']/ancestor::div[@class='oxd-grid-item oxd-grid-item--gutters']//span[text()='Enabled']</value>
+         <value>//*[text()='Status']/ancestor::div[@class='oxd-grid-item oxd-grid-item--gutters']//span[text()='${userStatus}']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${userStatus}</value>
+      <webElementGuid>2c53bac2-1392-4d5d-b992-e8361007633a</webElementGuid>
+   </webElementProperties>
 </WebElementEntity>

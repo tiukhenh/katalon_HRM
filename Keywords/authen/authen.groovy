@@ -57,11 +57,11 @@ class authen {
 
 	@Keyword
 	def logout() {
-		// click user dropdown
+		'click user dropdown'
 		WebUI.click(findTestObject('Object Repository/PageLogout/userdropdown'))
-		// click logout
+		'click logout'
 		WebUI.click(findTestObject('Object Repository/PageLogout/Logout_Loca'))
-		// verify logout successfull
+		'verify logout successfull'
 		WebUI.verifyElementVisible(findTestObject('Object Repository/PageLogin/btn_login'))
 	}
 	//

@@ -25,18 +25,23 @@ import com.kms.katalon.core.context.TestSuiteContext
 class NewTestListener {
 	@BeforeTestCase
 	def BeforeTestCase() {
-		CustomKeywords.'authen.authen.login'('Admin', 'admin123')
+		'open Browser'
+		WebUI.openBrowser('')
+		'Navigate URL'
+		WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+		'Login'
+		CustomKeywords.'authen.authen.login'(GlobalVariable.userAdmin[0], GlobalVariable.userAdmin[1])
 	}
 
 	@AfterTestCase
 	def AfterTestCase() {
+		'Logout'
 		CustomKeywords.'authen.authen.logout'()
 	}
 	
 	@BeforeTestSuite
 	def BeforeTestSuite() {
-		WebUI.openBrowser('')
-		WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+		
 	}
 
 	@AfterTestSuite
