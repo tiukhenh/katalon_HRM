@@ -31,6 +31,12 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/AdminPage/Edit_user</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1f16d2d0-feb6-4d72-869d-63e11a5b20b6</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>56a815b0-adf1-462c-a1d1-3ae0014c4181</guid>
